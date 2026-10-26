@@ -1,6 +1,6 @@
 # Spezifikation des Terminplaners — Gliederung und Beispiele
 
-Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @sadimadi22, @AnushkaKannan, @maxbarrosschauer
+Mitgearbeitet haben (GitHub-Benutzernamen, auch bei Einzelarbeit): @sadimadi22, @marroer19-hub, @anushka667
 
 ---
 
